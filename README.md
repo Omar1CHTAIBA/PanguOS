@@ -8,23 +8,6 @@ The project focuses on low-level systems programming, graphical user interface d
 
 ---
 
-## Overview
-
-PanguOS provides a complete graphical desktop environment featuring:
-
-- User authentication system
-- Animated boot experience
-- Graphical desktop and window manager
-- Integrated terminal emulator
-- Built-in calculator parser
-- Retro games (Snake and Tic-Tac-Toe)
-- PS/2 keyboard and mouse support
-- VGA graphics with double buffering
-- Event-driven kernel architecture
-
-All components operate directly inside the kernel without external dependencies.
-
----
 
 ## Demonstration
 
@@ -59,6 +42,25 @@ All components operate directly inside the kernel without external dependencies.
 </p>
 
 ---
+
+## Overview
+
+PanguOS provides a complete graphical desktop environment featuring:
+
+- User authentication system
+- Animated boot experience
+- Graphical desktop and window manager
+- Integrated terminal emulator
+- Built-in calculator parser
+- Retro games (Snake and Tic-Tac-Toe)
+- PS/2 keyboard and mouse support
+- VGA graphics with double buffering
+- Event-driven kernel architecture
+
+All components operate directly inside the kernel without external dependencies.
+
+---
+
 
 # Features
 
