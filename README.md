@@ -1,7 +1,6 @@
 # PanguOS
 
-A lightweight, 32-bit graphical operating system kernel built from scratch in C and x86 Assembly. PanguOS features a custom window manager, PS/2 peripheral drivers, a built-in command-line interface, and integrated retro games.
-
+A lightweight, 32-bit graphical operating system kernel built from scratch in C and Assembly. it features a custom Login screen, Welcoming animation, GUI window manager, Start menu, native PS/2 mouse/keyboard drivers, a command-line terminal with an integrated math parser, and standalone retro games.
 ## Features
 
 * **Custom Graphical User Interface (GUI):** A 320x200 VGA graphical desktop environment with draggable windows. The UI is deliberately streamlined—specifically omitting minimize/close buttons on certain static windows—to reduce overhead and save CPU cycles.
